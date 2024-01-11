@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TechEvalution/static/css/main.304ecb3f.css",
+    "main.js": "/TechEvalution/static/js/main.f28f410a.js",
+    "static/media/ravi.jpg": "/TechEvalution/static/media/ravi.8e34059780b9d78822d4.jpg",
+    "static/media/home4.avif": "/TechEvalution/static/media/home4.90d4eeee23161d3bd79d.avif",
+    "static/media/cd1.jpg": "/TechEvalution/static/media/cd1.6cda3c03a47653c06047.jpg",
+    "static/media/sanju.jpg": "/TechEvalution/static/media/sanju.d05ab11df8d4c673ce46.jpg",
+    "static/media/fe.png": "/TechEvalution/static/media/fe.78486de30d11f13146e6.png",
+    "static/media/be.png": "/TechEvalution/static/media/be.d921bc408a890faa78a2.png",
+    "static/media/lalith.jpg": "/TechEvalution/static/media/lalith.44b59308dd428ff0a20d.jpg",
+    "static/media/home3.jpg": "/TechEvalution/static/media/home3.211d7fa478ff23bf00c3.jpg",
+    "static/media/narsingh.jpg": "/TechEvalution/static/media/narsingh.9bf0ad9df8c906c08725.jpg",
+    "static/media/mahi.jpg": "/TechEvalution/static/media/mahi.33f49990521e9d4a57a3.jpg",
+    "static/media/home1.png": "/TechEvalution/static/media/home1.710b43501f88dc527506.png",
+    "static/media/Instagram.png": "/TechEvalution/static/media/Instagram.661a8d22097791cf8c6d.png",
+    "index.html": "/TechEvalution/index.html",
+    "main.304ecb3f.css.map": "/TechEvalution/static/css/main.304ecb3f.css.map",
+    "main.f28f410a.js.map": "/TechEvalution/static/js/main.f28f410a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.304ecb3f.css",
+    "static/js/main.f28f410a.js"
+  ]
+}
