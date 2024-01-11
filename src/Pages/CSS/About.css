@@ -1,0 +1,82 @@
+.about-section{
+    width: 95%;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 35px;
+    padding: 10px 30px;
+margin-left: 5%;    
+
+}
+.about-content{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-end;
+    padding-left: 70px;
+}
+.about-section h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.about-section p{
+    width: 75%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(129, 82, 129);
+
+}
+.about-section1,.about-section2{
+    width: 95%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 35px;
+    padding: 10px 30px;
+margin-left: 65px;    
+
+
+}
+.about-section2{
+    padding: 80px ;
+}
+.about-section1 h4{
+    font-size: 28px;
+    color: aliceblue ;
+    box-shadow: 4px 2px 4px 4px #644760;
+    background-color: #93688d;
+    padding: 5px;  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.about-section1 p{
+    width: 75%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: 15px;
+    color: rgb(129, 82, 129);
+
+}
+.about-section2 h4{
+    font-size: 28px;
+    color: aliceblue ;
+    box-shadow: 4px 2px 4px 4px #644760;
+    background-color: #93688d;
+    padding: 5px;  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.about-section2 p{
+    width: 75%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: 15px;
+    color: rgb(129, 82, 129);
+
+}

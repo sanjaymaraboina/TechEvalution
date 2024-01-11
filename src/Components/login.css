@@ -1,0 +1,41 @@
+.login{
+width: 80%;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+
+}
+.button{
+    color:white;
+    background-color: #93688d;
+    width: 120px;
+    height: 30px;
+    text-decoration: none;
+    border: none;
+    box-shadow: 4px 2px 4px 4px #644760;
+font-size: 15px;
+}
+input{
+    width: 250px;
+    height: 28px;
+    border: none;
+    color: #644760;
+}
+.form-log{
+    width: 30%;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 10px 20px;
+    background-color: #93688d;
+    box-shadow: 4px 2px 4px 4px #644760;
+
+}
+label{
+    color: white;
+}
