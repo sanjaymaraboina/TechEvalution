@@ -47,7 +47,7 @@ export const SidebarData = [
 export const NavbarData =[
   {
     title: 'Home',
-    path: '/',
+    path: '/TechEvalution',
     cName: 'nav-text'
   },
 {
