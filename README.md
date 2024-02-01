@@ -1,6 +1,14 @@
 #
 ![Screenshot 2024-01-24 172732](https://github.com/sanjaymaraboina/TechEvalution/assets/153506569/27bf2e4d-9e90-4718-99f5-b79ba43a49bc)
 
+Note : Login with below details {
+Sanjay : Email- sanju@gmail.com & password - password1,
+Ravishankar : Email- ravi@gmail.com & password - password2,
+Mahesh : Email- mahesh@gmail.com & password - password5,
+Narsingh : Email- narsingh@gmail.com & password - password4,
+Lalith : Email- lalith@gmail.com & password - password3,
+Shivani : Email- shivani@gmail.com & password - password6,
+}
 
 ![Screenshot 2024-02-01 162941](https://github.com/sanjaymaraboina/TechEvalution/assets/153506569/5035030e-ebc4-4640-b0ec-1ae340df8b5e)
 
