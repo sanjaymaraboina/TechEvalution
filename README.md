@@ -2,7 +2,9 @@
 ![Screenshot 2024-01-24 172732](https://github.com/sanjaymaraboina/TechEvalution/assets/153506569/27bf2e4d-9e90-4718-99f5-b79ba43a49bc)
 
 
+![Screenshot 2024-02-01 162941](https://github.com/sanjaymaraboina/TechEvalution/assets/153506569/5035030e-ebc4-4640-b0ec-1ae340df8b5e)
 
+![Screenshot 2024-02-01 162857](https://github.com/sanjaymaraboina/TechEvalution/assets/153506569/fe843885-0155-44d4-93f3-4e9cd91365a9)
 
 
 # Getting Started with Create React App
