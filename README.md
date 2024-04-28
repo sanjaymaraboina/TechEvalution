@@ -1,4 +1,8 @@
-#
+# Tech Evalution
+
+#### "Introducing 'Tech Evaluation,' my masterwork in ReactJS! This project rethinks the digital experience with its fluid navigation via the Home, About, Services, and Contact areas. Discover the genius of our group with in-depth summaries of six exceptional workers elegantly displayed on the sidebar. with in-depth summaries of six exceptional workers elegantly displayed on the sidebar. Our dynamic and user-friendly platform has been created with the help of React. Absorb the future of technologty based learning with ease.  discover tech evalution right now...! 
+
+
 ![Screenshot 2024-01-24 172732](https://github.com/sanjaymaraboina/TechEvalution/assets/153506569/27bf2e4d-9e90-4718-99f5-b79ba43a49bc)
 
 Note : Login with below details {
